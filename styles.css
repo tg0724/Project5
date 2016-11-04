@@ -1,0 +1,55 @@
+/*button{
+  background-color: yellow;
+  height:100px;
+}
+myAnswer{
+  color:blue;
+  font-size:50;
+
+}*/
+ button1{
+  border-radius: 4px;
+  padding:10px 24px;
+  background-color: #ff3300;
+  text-align: center;
+  border: none;
+  box-shadow: 0 9px #999;
+  color: #fff;
+  font-size:20px;
+
+ }
+
+ button2{
+  border-radius: 4px;
+  padding:10px 24px;
+  background-color: #339933;
+  text-align: center;
+  border: none;
+  box-shadow: 0 9px #999;
+  color: #fff;
+  font-size:20px;
+ }
+
+ button3{
+   border-radius: 4px;
+   padding:10px 24px;
+   background-color: #ff9999;
+   text-align: center;
+   border: none;
+   box-shadow: 0 9px #999;
+   color: #fff;
+   font-size:20px;
+
+ }
+
+ button4{
+  border-radius: 4px;
+  padding:10px 24px;
+  background-color: #3399ff;
+  text-align: center;
+  border: none;
+  box-shadow: 0 9px #999;
+  color: #fff;
+  font-size:20px;
+
+}
